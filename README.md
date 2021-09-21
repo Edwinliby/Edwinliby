@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin liby</h1>
 <h3 align="center">Everyday learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinliby&label=Profile%20views&color=0e75b6&style=flat" alt="edwinliby" /> </p>
 
 - 🔭 I’m currently working on **: Flutter App**
 
@@ -42,6 +41,7 @@
 
 <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwinliby&label=Profile%20views&color=0e75b6&style=flat" alt="edwinliby" /> </p>
 <p align="center">
 <a href="https://github.com/Edwinliby/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinliby&show_icons=true&locale=en&layout=compact" />
