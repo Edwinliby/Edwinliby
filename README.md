@@ -13,6 +13,22 @@
 
 - ⚡ Fun fact **-> I like Strawberry Icecream**
 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
+                width="28" /> My Tech Stack</h2> </summary>
+          
+![C](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?flat&logo=dart&logoColor=white)&nbsp;\
+![Flutter](https://img.shields.io/badge/Flutter-02569B?flat&logo=flutter&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?flat&logo=google-cloud&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br>
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> Connect with me</h2></summary>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/edwin-liby-12b7a5220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin liby" height="30" width="40" /></a>
