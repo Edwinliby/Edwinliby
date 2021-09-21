@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **-> I like Strawberry Icecream**
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
           
 ![C](https://img.shields.io/badge/C-00599C?flat&logo=c&logoColor=white)&nbsp;
