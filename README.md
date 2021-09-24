@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?flat&logo=dart&logoColor=white)&nbsp;\
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?flat&logo=flutter&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?flat&logo=google-cloud&logoColor=white)&nbsp;\
+
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
