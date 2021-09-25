@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **: edwinliby30@gmail.com**
 
-- ⚡ Fun fact **-> I like Strawberry Icecream**
+- ⚡ Fun fact **-> I listen to 6 hours of song a day**
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
