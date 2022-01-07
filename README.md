@@ -2,7 +2,7 @@
 <h3 align="center">Everyday learning new things.</h3>
 
 
-- 🔭 I’m currently working on **: Flutter App**
+- 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
 
 - 🌱 I’m currently learning **: C, Flutter, Python**
 
