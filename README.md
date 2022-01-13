@@ -13,7 +13,7 @@
 
 
 <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28"/> 
-### Connect with me
+### Connect with me:
 
 
 <p align="left">
@@ -47,6 +47,9 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsyy&theme=react&line_height=40&hide=css"/>
     </a>
 </div
+ 
+<br/>
+<br/>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinliby" alt="edwinliby" /></a> </p>
 
