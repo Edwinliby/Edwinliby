@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
 
-- 🌱 I’m currently learning **: C, Flutter, Python**
+- 🌱 I love doing code and tech related things.
 
 - 📫 How to reach me **: edwinliby30@gmail.com**
 
