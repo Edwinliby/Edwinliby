@@ -1,4 +1,4 @@
-# Hi there,i'm Edwin
+# Hi there, i'm Edwin
 ## Learning new things Everyday
 
 
@@ -10,9 +10,11 @@
 
 - ⚡ Fun fact **-> I am PAC-MAN**
 
+<br/>
 
 ### Connect with me 📝:
 
+<br/>
 
 <p align="left">
 <a href="http://www.linkedin.com/in/edwin-liby-12b7a5220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin liby" height="30" width="40" /></a>
@@ -22,7 +24,11 @@
 <a href="https://discord.gg/Edwin_liby#4684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Edwin_liby#4684" height="30" width="40" /></a>
 </p>
 
+<br/>
+
 ### Languages and Tools:
+
+<br/>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-%23CC6699?style=flat-square&logo=flutter&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
@@ -34,8 +40,11 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<br/>
 
 ### 📈GitHub Analytics
+
+<br/>
 
  <div align="center"> 
      <a href="">
