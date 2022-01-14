@@ -57,5 +57,8 @@
  
 <br/>
 <br/>
-
+GitHub Streak 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true)](https://git.io/streak-stats) 
+ <br/>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=edwinliby-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
