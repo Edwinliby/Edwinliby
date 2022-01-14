@@ -56,9 +56,9 @@
 </div
  
 <br/>
-<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true)
- <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=edwinliby-ma&theme=onedark)
+<div align="center"> 
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=edwinliby-ma&theme=dracula"/>   
+</div
 
