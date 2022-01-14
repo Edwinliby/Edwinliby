@@ -55,7 +55,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Edwinliby&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsyy&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinliby&theme=react&line_height=40&hide=css"/>
     </a>
 </div
  
@@ -64,4 +64,4 @@
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinliby" alt="edwinliby" /></a> </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=edwinliby-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
