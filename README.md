@@ -9,7 +9,10 @@
 - 📫 How to reach me **: edwinliby30@gmail.com**
 
 - ⚡ Fun fact **-> I am PAC-MAN**
-
+- 
+<p align="center">
+ <a href="https://edwinliby.github.io/Portfolio/"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
+ </p>
 <br/>
 
 ### Connect with me 📝:
