@@ -1,6 +1,7 @@
 # Hi there, i'm Edwin
 ## Learning new things Everyday
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
 
 - 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
 
@@ -61,4 +62,4 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true" />
 </div>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Edwinliby-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
