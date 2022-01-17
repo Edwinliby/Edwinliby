@@ -52,13 +52,13 @@
 
  <div align="center"> 
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Edwinliby&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&theme=react&line_height=40&hide=css"/>   
-</div
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&theme=react&line_hide=css"/>   
+</div>
  
 <br/>
 
 <div align="center"> 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true" />
-</div
+</div>
  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=edwinliby-ma&theme=dracula)
