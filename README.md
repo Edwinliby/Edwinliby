@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **: edwinliby30@gmail.com**
 
-- ⚡ Fun fact **-> I am PAC-MAN**
+- ⚡ Fun fact **-> I like White Chocolate**
 
 
 <p align="center">
