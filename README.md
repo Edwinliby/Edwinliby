@@ -31,6 +31,12 @@
 
 <br/>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://open.spotify.com/track/4mecZsH7nSz3zUkqhdZTd6?si=7196cf806c3940ef)](https://open.spotify.com/user/31pp3kugbt327ayrrjpq7wmjnoei)
+
+<br/>
+
 ### Languages and Tools:
 
 <br/>
