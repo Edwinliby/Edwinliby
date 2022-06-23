@@ -1,6 +1,8 @@
 # Hi there, i'm Edwin
 ## Learning new things Everyday
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
 
 - 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
