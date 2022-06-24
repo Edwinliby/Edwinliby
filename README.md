@@ -1,4 +1,4 @@
-# Hi there, i'm Edwin
+# Hi there, i'm Edwin Liby
 ## Learning new things Everyday
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
