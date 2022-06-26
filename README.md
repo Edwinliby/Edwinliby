@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
 - 🌱 I like doing coding, but runtime error make me go bed.
-- 📫 How to reach me **: Down their is links to connect with me 😉 **
+- 📫 How to reach me **: Down their is links to connect with me 😉**
 - ⚡ Fun fact **-> I like White Chocolate**
 
 <p align="center">
