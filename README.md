@@ -1,25 +1,20 @@
-# Hi there, i'm Edwin Liby
+# Hi, i'm Edwin Liby
 ## Learning new things Everyday
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
-
 - 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
-
-- 🌱 I love doing code and tech related things.
-
-- 📫 How to reach me **: edwinliby30@gmail.com**
-
+- 🌱 I like doing coding, but runtime error make me go bed.
+- 📫 How to reach me **: Down their is links to connect with me 😉 **
 - ⚡ Fun fact **-> I like White Chocolate**
-
 
 <p align="center">
  <a href="https://edwinliby.github.io"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
  </p>
 <br/>
 
-### Connect with me 📝:
+---
+## Connect with me 📝:
 
 <br/>
 
@@ -33,13 +28,17 @@
 
 <br/>
 
-### Spotify Playing 🎧
+---
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31pp3kugbt327ayrrjpq7wmjnoei)
+## Spotify Playing 🎧
+
+ [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31pp3kugbt327ayrrjpq7wmjnoei)
 
 <br/>
 
-### Languages and Tools:
+---
+
+## Languages and Tools:
 
 <br/>
 
@@ -55,7 +54,9 @@
 
 <br/>
 
-### 📈GitHub Analytics
+---
+
+## 📈GitHub Analytics <p align="right"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
 
 <br/>
 
@@ -69,5 +70,3 @@
 <div align="center"> 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true" />
 </div>
- 
-
