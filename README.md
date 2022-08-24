@@ -30,14 +30,6 @@
 
 ---
 
-## Spotify Playing 🎧
-
- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31pp3kugbt327ayrrjpq7wmjnoei)
-
-<br/>
-
----
-
 ## Languages and Tools:
 
 <br/>
