@@ -9,7 +9,7 @@
 - ⚡ Fun fact **-> I like White Chocolate**
 
 <p align="center">
- <a href="https://edwinliby.github.io"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
+ <a href="http://ekuttan.me/"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
  </p>
 <br/>
 
