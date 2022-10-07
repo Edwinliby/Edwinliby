@@ -1,7 +1,7 @@
 # Hi, i'm Edwin Liby
 ## Learning new things Everyday
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 - 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
 - 🌱 I like doing coding, but runtime error make me go bed.
@@ -56,16 +56,9 @@
 
 ## 📈GitHub Analytics <p align="right"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
 
-<br/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edwinliby&count_private=true&theme=dark&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&layout=compact&theme=dark)](https://github.com/Edwinliby/github-readme-stats)
 
- <div align="center"> 
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Edwinliby&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-      
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&layout=compact)](https://github.com/Edwinliby/github-readme-stats)
-</div>
- 
-<br/>
-
-<div align="center"> 
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dracula&hide_border=true" />
+<div > 
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dark&hide_border=true" />
 </div>
