@@ -8,12 +8,12 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<ul>
-<li>🔭 I’m currently working on <B>Flutter App</B>, <B>UI/UX Designing</B>  </li>
-<li>🌱 I like doing coding, but runtime error make me go bed.  </li>
-<li>📫 How to reach me, <B>Down their is links to connect with me 😉</B>  </li>
-<li>⚡ Fun fact <B>I like White Chocolate</B> </li>
-</ul>
+
+🔭 I’m currently working on <B>Flutter App</B>, <B>UI/UX Designing</B> <br>
+🌱 I like doing coding, but runtime error make me go bed. <br>
+📫 How to reach me, <B>Down their is links to connect with me 😉</B> <br>
+⚡ Fun fact <B>I like White Chocolate</B>
+
 
 </div>
 
