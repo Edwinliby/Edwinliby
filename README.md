@@ -1,22 +1,28 @@
-# Hi, i'm Edwin Liby
-## Learning new things Everyday
+<h2>Hi there, I'm Edwin liby </h2>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🔭 I’m currently working on **: Flutter App, UI/UX Designing**
-- 🌱 I like doing coding, but runtime error make me go bed.
-- 📫 How to reach me **: Down their is links to connect with me 😉**
-- ⚡ Fun fact **-> I like White Chocolate**
+<ul>
+<li>🔭 I’m currently working on <B>Flutter App</B>, <B>UI/UX Designing</B>  </li>
+<li>🌱 I like doing coding, but runtime error make me go bed.  </li>
+<li>📫 How to reach me, <B>Down their is links to connect with me 😉</B>  </li>
+<li>⚡ Fun fact <B>I like White Chocolate</B> </li>
+</ul>
+
+</div>
 
 <p align="center">
  <a href="http://ekuttan.me/"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
  </p>
-<br/>
 
----
-## Connect with me 📝:
+<h2> Connect with me 📝</h2>
 
-<br/>
 
 <p align="left">
 <a href="http://www.linkedin.com/in/edwin-liby-12b7a5220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin liby" height="30" width="40" /></a>
@@ -26,13 +32,9 @@
 <a href="https://discord.gg/Edwin_liby#4684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Edwin_liby#4684" height="30" width="40" /></a>
 </p>
 
-<br/>
 
----
+<h2> Languages and Tools: </h2>
 
-## Languages and Tools:
-
-<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -50,15 +52,17 @@
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
 
----
 
 ## 📈GitHub Analytics <p align="right"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edwinliby&count_private=true&theme=dark&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&layout=compact&theme=dark)](https://github.com/Edwinliby/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edwinliby&count_private=true&theme=dark&showicons=true)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&layout=compact&theme=dark)](https://github.com/Edwinliby/github-readme-stats)
 
 <div > 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dark&hide_border=true" />
 </div>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
