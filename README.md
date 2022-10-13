@@ -1,19 +1,17 @@
-<h2>Hi there, I'm Edwin liby </h2>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
-<div align="center">
+<h2>Hi there, I'm Edwin liby </h2>
+
+<div >
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 🔭 I’m currently working on <B>Flutter App</B>, <B>UI/UX Designing</B> <br>
 🌱 I like doing coding, but runtime error make me go bed. <br>
 📫 How to reach me, <B>Down their is links to connect with me 😉</B> <br>
-⚡ Fun fact <B>I like White Chocolate</B>
-
+⚡Fun fact <B>I like White Chocolate</B>
 
 </div>
 
@@ -57,11 +55,13 @@
 ## 📈GitHub Analytics <p align="right"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edwinliby&count_private=true&theme=dark&showicons=true)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinliby&layout=compact&theme=dark)](https://github.com/Edwinliby/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edwinliby&count_private=true&theme=dark&showicons=true)]() 
 
 <div > 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dark&hide_border=true" />
 </div>
+
+[![@edwin30's Holopin board](https://holopin.me/edwin30)](https://holopin.io/@edwin30)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
