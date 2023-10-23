@@ -1,10 +1,8 @@
-<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-</p>
+
+<div align="center">
 
 <h2>Hi there, I'm Edwin liby </h2>
-
-<div >
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -16,7 +14,7 @@
 </div>
 
 <p align="center">
- <a href="http://ekuttan.me/"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
+ <a href="https://ekuttan.vercel.app/"><img src="https://img.shields.io/badge/⚡-Check%20my%20Portfolio-orange"/></a>
  </p>
 
 <h2> Connect with me 📝</h2>
@@ -50,19 +48,4 @@
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
-## 📈GitHub Analytics <p align="right"> <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/> </p>
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edwinliby&count_private=true&theme=dark&showicons=true)]() 
-
-<div > 
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=edwinliby&theme=dark&hide_border=true" />
-</div>
-
-[![@edwin30's Holopin board](https://holopin.me/edwin30)](https://holopin.io/@edwin30)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-</p>
+ <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/>
