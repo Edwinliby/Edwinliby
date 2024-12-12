@@ -1,13 +1,9 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-
 <h2>Tech Symphony:</h2>
 
 <h4>Languages:</h4>
 
 ![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue)
-![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow)
 
 <h4>Tools:</h4>
 
@@ -17,9 +13,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Ai](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Premierpro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <h2> Connect with me 📝</h2>
 
@@ -31,5 +24,3 @@
 </p>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
