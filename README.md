@@ -17,6 +17,15 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   21 hrs 40 mins  ██████████████████▓░░░░░░   75.12 %
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+CSS          4 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Other        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=GitHub_Views&color=blue"/>
