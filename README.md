@@ -14,13 +14,20 @@
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h2> Connect with me 📝</h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/edwin-liby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin liby" height="30" width="40" /></a>
-<a href="https://www.facebook.com/edwin.liby.73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edwin liby" height="30" width="40" /></a>
-<a href="https://www.instagram.com/e_kuttan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin_liby" height="30" width="40" /></a>
-<a href="https://discord.gg/Edwin_liby#4684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Edwin_liby#4684" height="30" width="40" /></a>
-</p>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Edwinliby&label=Views&color=blue&style=plastic"/>
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   21 hrs 40 mins  ██████████████████▓░░░░░░   75.12 %
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+CSS          4 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Other        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+```
+
+<!--END_SECTION:waka-->
+
+<img src="https://komarev.com/ghpvc/?username=Edwinliby&label=GitHub_Views&color=blue"/>
+<br/> 
+<a href="https://www.buymeacoffee.com/aswinasok"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /> </a>
