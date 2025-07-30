@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 46 mins         ████████████████████░░░░░   79.55 %
-JSON                       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-JavaScript                 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-CSS                        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
