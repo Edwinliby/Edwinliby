@@ -30,4 +30,4 @@ Text         12 mins         ▒░░░░░░░░░░░░░░░░
 
 <img src="https://komarev.com/ghpvc/?username=Edwinliby&label=GitHub_Views&color=blue"/>
 <br/> 
-<a href="https://www.buymeacoffee.com/aswinasok"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /> </a>
+<a href="https://buymeacoffee.com/edwinliby"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /> </a>
