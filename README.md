@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       1 hr            ██████████▓░░░░░░░░░░░░░░   42.89 %
-HTML             46 mins         ████████░░░░░░░░░░░░░░░░░   32.54 %
-CSS              20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-ca65 assembler   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
