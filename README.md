@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+ca65 assembler   40 mins               ██████████████▓░░░░░░░░░░   58.69 %
+C                27 mins               ██████████░░░░░░░░░░░░░░░   40.03 %
+Markdown         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
